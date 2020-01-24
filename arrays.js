@@ -6,4 +6,4 @@ var chocolateBars = [
   ];
   
 function addElementToBeginningOfArray (chocolateBars, candyString)
-  return (candyString, chocolateBars)
+  return [candyString, ...chocolateBars]
