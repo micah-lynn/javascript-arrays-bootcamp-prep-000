@@ -17,3 +17,5 @@ function destructivelyAddElementToBeginningOfArray (chocolateBars, candyString) 
 function addElementToEndOfArray (chocolateBars, candyString) {
   return [...chocolateBars, candyString]
 }
+
+function destructively
