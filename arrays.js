@@ -28,6 +28,6 @@ function accessElementInArray (array, index) {
 }
 
 function destructivelyRemoveElementFromBeginningOfArray (array) {
-  chocolate.unshift();
-  return chocolate;
+  chocolateBars.unshift();
+  return chocolateBars;
 }
