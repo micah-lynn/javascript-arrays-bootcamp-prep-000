@@ -4,3 +4,5 @@ var chocolateBars = [
   "kit kat",
   "skittles"
   ];
+  
+var addElementToBeginningofArray
